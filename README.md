@@ -18,3 +18,9 @@ This is a secure and scalable RESTful API for an e-commerce platform, built usin
 1. Clone the repository:
    ```bash
    git clone https://github.com/gauravchaudhary724/Ecommerce-rest-api.git
+
+### Step 2: Install Dependencies
+After cloning the repository, navigate into the project directory:
+ ```bash
+   cd Ecommerce-rest-api
+
