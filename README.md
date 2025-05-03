@@ -15,16 +15,8 @@ This is a secure and scalable RESTful API for an e-commerce platform, built usin
 - **JWT (JSON Web Tokens)**: Authentication for secure routes.
 
 ## How to Run:
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/gauravchaudhary724/Ecommerce-rest-api.git
 
-### Step 2: Install Dependencies
-After cloning the repository, navigate into the project directory:
- ```bash
-   cd Ecommerce-rest-api
-## Then install all the necessary dependencies using npm:
+### Step 1: Clone the Repository
+Clone the repository to your local machine using the following command:
 ```bash
-   npm install
-
-
+git clone https://github.com/gauravchaudhary724/Ecommerce-rest-api.git
