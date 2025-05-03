@@ -23,7 +23,7 @@ This is a secure and scalable RESTful API for an e-commerce platform, built usin
 After cloning the repository, navigate into the project directory:
  ```bash
    cd Ecommerce-rest-api
-Then install all the necessary dependencies using npm:
+## Then install all the necessary dependencies using npm:
 ```bash
    npm install
 
